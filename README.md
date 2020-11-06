@@ -4,4 +4,7 @@
 20201104
 https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3
 
+20201105
+https://programmers.co.kr/learn/courses/30/lessons/42748
+
 
