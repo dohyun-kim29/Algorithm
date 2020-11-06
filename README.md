@@ -7,4 +7,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3
 20201105
 https://programmers.co.kr/learn/courses/30/lessons/42748
 
+20201106
+https://programmers.co.kr/learn/courses/30/lessons/42584
+
 
