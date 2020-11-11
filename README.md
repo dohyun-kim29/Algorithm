@@ -15,4 +15,8 @@ https://programmers.co.kr/learn/courses/30/lessons/42584
 https://programmers.co.kr/learn/courses/30/lessons/12917
 (for문 돌리면 쉬워보이는데 최적화에서 새로운 방법이 있었음)
 
+20201111
+https://programmers.co.kr/learn/courses/30/lessons/42840
+(수학의 중요성을 느낌)
+
 
