@@ -19,4 +19,7 @@ https://programmers.co.kr/learn/courses/30/lessons/12917
 https://programmers.co.kr/learn/courses/30/lessons/42840
 (수학의 중요성을 느낌)
 
+20201112
+https://programmers.co.kr/learn/courses/30/lessons/42586 (오류가 있는거 같다 조만간 수정 해야지)
+
 
