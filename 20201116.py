@@ -19,4 +19,7 @@ for i in range(0, skillTreesLen):
     wholeNewSkillTree.append(newSkillTree)
     newSkillTree = []
 
-print(wholeNewSkillTree)
+wholeNewSkillTreeLen = len(wholeNewSkillTree)
+for i in range(0, wholeNewSkillTreeLen):
+    wholeNewSkillTreeDetailLen = len(wholeNewSkillTree[i])
+    for j in range(0, wholeNewSkillTreeDetailLen):
